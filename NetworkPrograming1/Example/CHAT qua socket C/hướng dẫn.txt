@@ -1,0 +1,2 @@
+Bu?c 1: Ch?y project SERVER
+Bu?c 2: Vào CHAT\CLIENT\bin\Debug ch?y file CLIENT.exe (có th? ch?y nhi?u l?n t?o ra nhi?u client)

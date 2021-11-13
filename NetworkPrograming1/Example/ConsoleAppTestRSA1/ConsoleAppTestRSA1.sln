@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestRSA1", "ConsoleAppTestRSA1\ConsoleAppTestRSA1.csproj", "{029913A4-1C5F-40D4-9C01-0D3598C79A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029913A4-1C5F-40D4-9C01-0D3598C79A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029913A4-1C5F-40D4-9C01-0D3598C79A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029913A4-1C5F-40D4-9C01-0D3598C79A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029913A4-1C5F-40D4-9C01-0D3598C79A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0ADD0D-2713-48ED-8506-C4D630357A5C}
+	EndGlobalSection
+EndGlobal

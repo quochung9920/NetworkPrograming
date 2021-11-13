@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTC5", "BTC5\BTC5.csproj", "{8F95A066-249A-4934-9B00-27FF31CE7ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientC5", "ClientC5\ClientC5.csproj", "{C55269AD-DC7F-4A08-8131-978916DAFE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F95A066-249A-4934-9B00-27FF31CE7ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F95A066-249A-4934-9B00-27FF31CE7ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F95A066-249A-4934-9B00-27FF31CE7ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F95A066-249A-4934-9B00-27FF31CE7ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55269AD-DC7F-4A08-8131-978916DAFE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55269AD-DC7F-4A08-8131-978916DAFE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55269AD-DC7F-4A08-8131-978916DAFE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55269AD-DC7F-4A08-8131-978916DAFE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E25A41-75E5-469D-B1C3-5F1AB1F7772B}
+	EndGlobalSection
+EndGlobal

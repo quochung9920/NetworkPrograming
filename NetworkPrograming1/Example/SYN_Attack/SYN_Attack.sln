@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYN_Attack", "SYN_Attack\SYN_Attack.csproj", "{595D3D90-0A96-4840-9AD1-9EFF394C445C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{34807AED-4DBF-487F-9A55-EE16C1132693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595D3D90-0A96-4840-9AD1-9EFF394C445C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595D3D90-0A96-4840-9AD1-9EFF394C445C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595D3D90-0A96-4840-9AD1-9EFF394C445C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595D3D90-0A96-4840-9AD1-9EFF394C445C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34807AED-4DBF-487F-9A55-EE16C1132693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34807AED-4DBF-487F-9A55-EE16C1132693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34807AED-4DBF-487F-9A55-EE16C1132693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34807AED-4DBF-487F-9A55-EE16C1132693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DB550B-AE93-4281-BFFA-3B5C3BFC367C}
+	EndGlobalSection
+EndGlobal
